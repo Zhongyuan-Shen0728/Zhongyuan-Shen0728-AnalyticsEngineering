@@ -5,7 +5,7 @@ Analytics Engineering, AI and Visualisation module.
 
 ## Contents
 
-- [API Fundamentals](1_01_api_fundamentals.ipynb):
+- [API Fundamentals](1_01_api_fundamentals_ipynb):
   A reference notebook provided for the module.
 
 ## Licence
